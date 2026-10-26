@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&text=Wellson&height=180&fontSize=44&fontAlignY=32&desc=Web%20Developer%20%C2%B7%20Indonesia&descAlignY=53&descSize=16" alt="Wellson — Web Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:8957e5&height=240&section=header&text=Wellson&fontColor=ffffff&fontSize=64&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%C2%B7%20Indonesia&descColor=c9d1d9&descSize=18&descAlignY=60" alt="Wellson — Full-Stack Developer" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Building+POS%2C+ERP+%26+self-order+systems;PHP+%C2%B7+Node.js+%C2%B7+React+%C2%B7+MySQL;Now+exploring+Go%2C+Kotlin+%26+Flutter;Based+in+Kepulauan+Riau%2C+Indonesia" alt="Typing intro" />
+</p>
 
 ## 👋 Hi there
 
