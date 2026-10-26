@@ -8,13 +8,11 @@ I build full-stack business software — POS, ERP, self-ordering and payment sys
 
 ## 🛠️ Working with
 
-<img src="https://skillicons.dev/icons?i=php,codeigniter,laravel,mysql,js,ts,react,redux,nodejs,express,graphql,html,css,bootstrap,tailwind,firebase,docker,nginx,redis,rabbitmq,git,linux&theme=dark#gh-dark-mode-only" alt="PHP, CodeIgniter, Laravel, MySQL, JavaScript, TypeScript, React, Redux, Node.js, Express, GraphQL, HTML, CSS, Bootstrap, Tailwind CSS, Firebase, Docker, Nginx, Redis, RabbitMQ, Git, Linux" />
-<img src="https://skillicons.dev/icons?i=php,codeigniter,laravel,mysql,js,ts,react,redux,nodejs,express,graphql,html,css,bootstrap,tailwind,firebase,docker,nginx,redis,rabbitmq,git,linux&theme=light#gh-light-mode-only" alt="PHP, CodeIgniter, Laravel, MySQL, JavaScript, TypeScript, React, Redux, Node.js, Express, GraphQL, HTML, CSS, Bootstrap, Tailwind CSS, Firebase, Docker, Nginx, Redis, RabbitMQ, Git, Linux" />
+<img src="https://skillicons.dev/icons?i=php,codeigniter,laravel,mysql,js,ts,react,redux,nodejs,express,graphql,html,css,bootstrap,tailwind,firebase,docker,nginx,redis,rabbitmq,git,linux&theme=light" alt="PHP, CodeIgniter, Laravel, MySQL, JavaScript, TypeScript, React, Redux, Node.js, Express, GraphQL, HTML, CSS, Bootstrap, Tailwind CSS, Firebase, Docker, Nginx, Redis, RabbitMQ, Git, Linux" />
 
 ## 🚀 Currently learning
 
-<img src="https://skillicons.dev/icons?i=go,kotlin,androidstudio,flutter,dart,vite,python&theme=dark#gh-dark-mode-only" alt="Go, Kotlin, Android Studio, Flutter, Dart, Vite, Python" />
-<img src="https://skillicons.dev/icons?i=go,kotlin,androidstudio,flutter,dart,vite,python&theme=light#gh-light-mode-only" alt="Go, Kotlin, Android Studio, Flutter, Dart, Vite, Python" />
+<img src="https://skillicons.dev/icons?i=go,kotlin,androidstudio,flutter,dart,vite,python&theme=light" alt="Go, Kotlin, Android Studio, Flutter, Dart, Vite, Python" />
 
 ## 🧩 Things I've built
 
