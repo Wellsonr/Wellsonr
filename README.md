@@ -4,17 +4,17 @@
 
 Self-taught web developer from Kepulauan Riau, Indonesia 🇮🇩
 
-I build web apps with **PHP (CodeIgniter) & MySQL**, and I'm currently going deep into the **JavaScript ecosystem — React, Node.js, Express & MongoDB**.
+I build full-stack business software — POS, ERP, self-ordering and payment systems — with **PHP (CodeIgniter, Laravel), Node.js (Express, GraphQL), React and MySQL**, backed by **RabbitMQ, Redis and Docker**. Lately I'm branching into **Go workers, native Android (Kotlin) and Flutter**.
 
 ## 🛠️ Working with
 
-<img src="https://skillicons.dev/icons?i=php,mysql,bootstrap,js,html,css&theme=dark#gh-dark-mode-only" alt="PHP, MySQL, Bootstrap, JavaScript, HTML, CSS" />
-<img src="https://skillicons.dev/icons?i=php,mysql,bootstrap,js,html,css&theme=light#gh-light-mode-only" alt="PHP, MySQL, Bootstrap, JavaScript, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=php,codeigniter,laravel,mysql,js,ts,react,redux,nodejs,express,graphql,html,css,bootstrap,tailwind,firebase,docker,nginx,redis,rabbitmq,git,linux&theme=dark#gh-dark-mode-only" alt="PHP, CodeIgniter, Laravel, MySQL, JavaScript, TypeScript, React, Redux, Node.js, Express, GraphQL, HTML, CSS, Bootstrap, Tailwind CSS, Firebase, Docker, Nginx, Redis, RabbitMQ, Git, Linux" />
+<img src="https://skillicons.dev/icons?i=php,codeigniter,laravel,mysql,js,ts,react,redux,nodejs,express,graphql,html,css,bootstrap,tailwind,firebase,docker,nginx,redis,rabbitmq,git,linux&theme=light#gh-light-mode-only" alt="PHP, CodeIgniter, Laravel, MySQL, JavaScript, TypeScript, React, Redux, Node.js, Express, GraphQL, HTML, CSS, Bootstrap, Tailwind CSS, Firebase, Docker, Nginx, Redis, RabbitMQ, Git, Linux" />
 
 ## 🚀 Currently learning
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&theme=dark#gh-dark-mode-only" alt="React, Node.js, Express, MongoDB, Tailwind CSS" />
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&theme=light#gh-light-mode-only" alt="React, Node.js, Express, MongoDB, Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=go,kotlin,androidstudio,flutter,dart,vite,python&theme=dark#gh-dark-mode-only" alt="Go, Kotlin, Android Studio, Flutter, Dart, Vite, Python" />
+<img src="https://skillicons.dev/icons?i=go,kotlin,androidstudio,flutter,dart,vite,python&theme=light#gh-light-mode-only" alt="Go, Kotlin, Android Studio, Flutter, Dart, Vite, Python" />
 
 ## 🧩 Things I've built
 
