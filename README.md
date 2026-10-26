@@ -8,7 +8,7 @@ I build full-stack business software — POS, ERP, self-ordering and payment sys
 
 ## 🛠️ Working with
 
-<img src="https://skillicons.dev/icons?i=php,codeigniter,laravel,mysql,js,ts,react,redux,nodejs,express,graphql,html,css,bootstrap,tailwind,firebase,docker,nginx,redis,rabbitmq,git,linux&theme=light" alt="PHP, CodeIgniter, Laravel, MySQL, JavaScript, TypeScript, React, Redux, Node.js, Express, GraphQL, HTML, CSS, Bootstrap, Tailwind CSS, Firebase, Docker, Nginx, Redis, RabbitMQ, Git, Linux" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,react,redux,nodejs,express,graphql,html,css,bootstrap,tailwind,firebase,docker,nginx,redis,rabbitmq,git,linux&theme=light" alt="PHP, Laravel, MySQL, JavaScript, TypeScript, React, Redux, Node.js, Express, GraphQL, HTML, CSS, Bootstrap, Tailwind CSS, Firebase, Docker, Nginx, Redis, RabbitMQ, Git, Linux" />
 
 ## 🚀 Currently learning
 
